@@ -18,7 +18,7 @@ Requires **JDK 21 or newer** (the server uses virtual threads).
 run.bat
 ```
 
-Then open <http://localhost:8080>. To use a different port:
+Then open <https://capture-smile-backend.onrender.com>. To use a different port:
 
 ```
 set PORT=9000 && run.bat
