@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Capture Smile">
+  <defs>
+    <linearGradient id="smile" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#D3E8FB"/>
+      <stop offset="0.5" stop-color="#7FB6E8"/>
+      <stop offset="1" stop-color="#3B78B8"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="16" fill="#0B1526"/>
+  <path d="M17 33 Q32 51 47 33" fill="none" stroke="url(#smile)" stroke-width="5.5" stroke-linecap="round"/>
+  <circle cx="24" cy="25" r="3.4" fill="#7FB6E8"/>
+  <circle cx="40" cy="25" r="3.4" fill="#7FB6E8"/>
+</svg>

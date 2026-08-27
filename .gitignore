@@ -1,0 +1,24 @@
+# --- API keys: never commit -------------------------------------------------
+secrets/
+*.key
+
+# --- compiled output --------------------------------------------------------
+out/
+out-tools/
+*.class
+
+# --- original image sources (not served; large, mixed licensing) ------------
+# Remove these two lines if you want the originals tracked.
+assets-raw/
+assets-raw-chars/
+
+# --- local tooling / editor -------------------------------------------------
+.claude/settings.local.json
+.idea/
+.vscode/
+*.iml
+
+# --- OS ---------------------------------------------------------------------
+Thumbs.db
+desktop.ini
+.DS_Store

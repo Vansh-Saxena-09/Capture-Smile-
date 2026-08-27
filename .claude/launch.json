@@ -1,0 +1,17 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "capture-smile",
+      "runtimeExecutable": "java",
+      "runtimeArgs": [
+        "-Dport=8090",
+        "-Dwebroot=C:\\Users\\saxen\\Capture Smile\\web",
+        "-cp",
+        "C:\\Users\\saxen\\Capture Smile\\out",
+        "capturesmile.Main"
+      ],
+      "port": 8090
+    }
+  ]
+}
